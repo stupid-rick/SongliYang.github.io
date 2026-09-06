@@ -713,3 +713,4 @@ jsonresume:
   - references
 
 # customized 2026-09-06 for Songli Yang
+# customize: removed _sass/_base.scss CJK override 2026-09-06
