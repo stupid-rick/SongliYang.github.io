@@ -1,34 +1,45 @@
 ---
 layout: about
-title: about
+title: Songli Yang
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, Tsinghua University
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:Songliyang96@gmail.com">Songliyang96@gmail.com</a></p>
+    <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher at the School of Civil Engineering, Tsinghua University, working with Prof. Ya Wei. I received my Ph.D. from the National Center for Materials Service Safety, University of Science and Technology Beijing, under the supervision of Prof. Linbing Wang. Prior to that, I obtained my M.Eng. in Environmental Engineering from the University of New South Wales (UNSW) with Prof. Michael J. Manefield.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **intelligent sensing of rigid pavements**, spanning tire-pavement noise modelling, MEMS accelerometer-based weigh-in-motion, physics-guided feature engineering for pavement vibration, and physics-informed transfer learning for lightweight overload monitoring. I am particularly interested in how structural mechanics, vehicle dynamic excitation and sensor coupling effects can be decoupled to enable ultra-sparse, low-cost, high-reliability deployment across national road networks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently I serve as a co-author of Yunnan Provincial Standard DB53/T 1354-2025 (*Technical specification for installation and verification of embedded acceleration sensors in pavement*) and hold multiple Chinese invention patents on pavement sensor embedding工艺 and rigid pavement WIM algorithms.
+
+## 教育经历 / Education
+
+| 阶段 | 单位 | 时间 | 导师 |
+|------|------|------|------|
+| 博士后 Postdoctoral | 清华大学 土木水利学院 | 2025.07 – 至今 | 魏亚 教授 |
+| 博士 Ph.D. | 北京科技大学 国家材料服役安全科学中心 | 2021.09 – 至今 | Linbing Wang 教授 |
+| 硕士 M.Eng. | University of New South Wales, 土木与环境工程 | 2018.09 – 2021.05 | Michael J. Manefield 教授 |
+
+## 研究方向 / Research Interests
+
+**中文**：水泥混凝土路面振动 · 轮胎-路面噪声 · PCC 路面纹理 · MEMS 智能感知 · 物理驱动机器学习 · 跨域迁移
+
+**English**: Rigid pavement vibration · Tire-pavement noise · MEMS-based weigh-in-motion · Physics-guided feature engineering · Physics-informed transfer learning · Lightweight structural health monitoring
+
+## 联系方式 / Contact
+
+- Email: [Songliyang96@gmail.com](mailto:Songliyang96@gmail.com)
+- ORCID: [0009-0002-6966-6225](https://orcid.org/0009-0002-6966-6225)
+- ResearchGate: [Songli-Yang](https://www.researchgate.net/profile/Songli-Yang)
+- GitHub: [SongliYang](https://github.com/SongliYang)
